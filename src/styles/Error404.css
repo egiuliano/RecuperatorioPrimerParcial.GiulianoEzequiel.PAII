@@ -1,0 +1,23 @@
+.containerError404 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    background-color: white;
+    position: fixed;
+}
+
+.containerError404 .pError {
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+    font-size: 45px;
+}
+
+.containerError404 .card {
+    border: 0px;
+    width:100%;
+    max-width: 500px;
+}

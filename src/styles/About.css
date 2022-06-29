@@ -1,0 +1,14 @@
+.aboutSection {
+    padding: 50px;
+    text-align: center;
+    color: #17408B;
+    position: fixed;
+    justify-content: center;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+  }
+
+  .aboutSection h2 {
+    color: #C9082A;
+  }

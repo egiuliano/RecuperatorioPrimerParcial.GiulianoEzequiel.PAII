@@ -1,0 +1,33 @@
+@import url('https://use.typekit.net/ics3vwl.css');
+
+@font-face {
+  font-family: "Light";
+  src: local("AirbnbCerealLight"),
+    url("../fonts/nba-font.ttf") format("truetype");
+}
+
+body {
+  margin: 0;
+  font-family:"titillium-web", sans-serif;
+  font-weight:700;
+  /* font-family:"Light"; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.active {
+  color: red;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: rgb(0, 255, 64);
+  
+}
+
+
